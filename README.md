@@ -31,7 +31,7 @@
   - [Atreus62](#atreus62)
   - [Atreis](#atreis)
   - [Pteron](#pteron)
-  - [CatBoard](#catboard-)
+  - [CatBoard](#catboard)
   - [Arke](#arke)
   - [Keyboard.io Model01](#keyboardio-model01)
   - [SmartYao/Koolertron Keyboard](#smartyaokoolertron-keyboard)
@@ -298,7 +298,7 @@ https://www.reddit.com/r/MechanicalKeyboards/comments/9blobs/the_pteron/
 
 <img src="img/Pteron.jpg" width="400px"/>
 
-## CatBoard ][
+## CatBoard
 
 http://catboard.klava.org/
 https://github.com/ibnteo/catboard
