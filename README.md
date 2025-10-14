@@ -55,8 +55,6 @@
   - [Viterbi](#viterbi)
   - [X-Bows](#x-bows)
   - [Zen](#zen)
-
-
   - [Build your own keyboard (Do it yourself - DIY)](#build-your-own-keyboard-do-it-yourself---diy)
     - [Plates & Cases](#plates--cases)
       - [Laser Cutting](#laser-cutting)
