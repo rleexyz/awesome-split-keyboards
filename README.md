@@ -580,8 +580,8 @@ https://github.com/hsgw/ergoinu
 ## Community
 
 ### Forums
-- [Keyboard communities](https://deskthority.net/wiki/Keyboard_communities)
 - [Deskthority](https://deskthority.net)
+- [Ergo Mech Keyboards Subreddit](https://www.reddit.com/r/ErgoMechKeyboards)
 - [GeekHack](https://geekhack.org)
 - [Mechanical Keyboards Subreddit](https://www.reddit.com/r/MechanicalKeyboards)
 
