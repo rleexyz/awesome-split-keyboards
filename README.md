@@ -1,5 +1,35 @@
 # Awesome Split Keyboards [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+## Index
+- [Keyboard List](#keyboard-list)
+- [Build your own keyboard (Do it yourself - DIY)](#build-your-own-keyboard-do-it-yourself---diy)
+  - [Plates & Cases](#plates--cases)
+    - [Laser Cutting](#laser-cutting)
+    - [3D Printing](#3d-printing)
+  - [Electronics](#electronics)
+    - [PCBs](#pcbs)
+  - [Firmware](#firmware)
+- [Keyboard Information](#keyboard-information)
+  - [Keycaps](#keycaps)
+  - [Switches](#switches)
+  - [Switch Testers](#switch-testers)
+- [Shopping](#shopping)
+  - [Keycaps](#keycaps-1)
+  - [Cables](#cables)
+- [Community](#community)
+  - [Forums](#forums)
+  - [Wiki](#wiki)
+  - [Chat](#chat)
+- [Ergonomics](#ergonomics)
+  - [RSI](#rsi)
+- [More split keyboards](#more-split-keyboards)
+- [About](#about)
+  - [About This Fork](#about-thisfork)
+  - [Contributing](#contributing)
+  - [License](#license)
+
+
+## Keyboard List
   - [Arke](#arke)
   - [Atreis](#atreis)
   - [Atreus62](#atreus62)  
@@ -55,29 +85,7 @@
   - [Viterbi](#viterbi)
   - [X-Bows](#x-bows)
   - [Zen](#zen)
-  - [Build your own keyboard (Do it yourself - DIY)](#build-your-own-keyboard-do-it-yourself---diy)
-    - [Plates & Cases](#plates--cases)
-      - [Laser Cutting](#laser-cutting)
-      - [3D Printing](#3d-printing)
-    - [Electronics](#electronics)
-      - [PCBs](#pcbs)
-    - [Firmware](#firmware)
-  - [Keyboard Information](#keyboard-information)
-    - [Keycaps](#keycaps)
-    - [Switches](#switches)
-    - [Switch Testers](#switch-testers)
-  - [Shopping](#shopping)
-    - [Keycaps](#keycaps-1)
-    - [Cables](#cables)
-  - [Community](#community)
-    - [Forums](#forums)
-    - [Wiki](#wiki)
-    - [Chat](#chat)
-  - [Ergonomics](#ergonomics)
-    - [RSI](#rsi)
-  - [More split keyboards](#more-split-keyboards)
-    - [Contributing](#contributing)
-    - [License](#license)
+
 
 ## Ergodox
 https://www.ergodox.io
@@ -607,6 +615,17 @@ https://github.com/hsgw/ergoinu
 ## More split keyboards
 
 You may also want to check out the [Split Keyboards](https://docs.google.com/spreadsheets/d/19-rTWbp8SCKdZFByPZu3RT8NSF8vVddDe8WL6R6b1qQ/edit#gid=0) spreadsheet, maintained by /u/dnlglsn.
+
+
+## About
+
+Stumbled on the repo while researching split keyboards
+
+
+### About This Fork
+
+Created to help keep the awesome list active 
+
 
 ### Contributing
 Contributions welcome!
