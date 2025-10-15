@@ -513,6 +513,7 @@ https://github.com/hsgw/ergoinu
   - [QMK Firmware](https://github.com/qmk/qmk_firmware)
   - [QMK Toolbox](https://github.com/qmk/qmk_toolbox)
 - [VIA](https://caniusevia.com)
+- [ZMK](https://zmk.dev/)
 
 ## Keyboard Information
 - [Keyboard Terminology](https://deskthority.net/wiki/Keyboard_terminology)
@@ -597,6 +598,7 @@ https://github.com/hsgw/ergoinu
 - [MechKeys Discord](https://discord.gg/mechkeys)
 - Discord: QMK https://discord.gg/YRqxYa
 - Discord: RGBKB https://discord.gg/uth6kE
+- Discord: ZMK https://discord.com/invite/sycytVQ
 - [GeekHack IRC: #geekhack @ freenode](https://webchat.freenode.net/#geekhack)
 - /r/mechanicalkeyboards' IRC channel: #mechboards @ freenode (web client)
 - IRC: #deskthority @ Freenode (web client) - Deskthority's IRC channel
