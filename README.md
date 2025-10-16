@@ -66,6 +66,7 @@
   - [Let's Split](#lets-split)
   - [Levinson](#levinson)
   - [Lily58](#lily58)
+  - [Lotus58](#lotus58)
   - [Maltron](#maltron)
   - [Matias Ergo Pro](#matias-ergo-pro)
   - [Minidox](#minidox)
@@ -416,6 +417,12 @@ http://www.beyondq.com/
 https://github.com/kata0510/Lily58
 
 <img src="img/lily58_keyboard.jpg" width="400px"/>
+
+## Lotus58
+https://github.com/TweetyDaBird/Lotus58
+https://github.com/TweetyDaBird/Lotus58/wiki
+
+<img src="img/lotus58.jpg" width="400px"/>
 
 ## R-Go Split
 https://www.r-go-tools.com/products/ergonomic-keyboards/r-go-split/
