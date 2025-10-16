@@ -616,7 +616,8 @@ https://github.com/hsgw/ergoinu
 
 ## More split keyboards
 
-You may also want to check out the [Split Keyboards](https://docs.google.com/spreadsheets/d/19-rTWbp8SCKdZFByPZu3RT8NSF8vVddDe8WL6R6b1qQ/edit#gid=0) spreadsheet, maintained by /u/dnlglsn.
+- [GOLEM split keyboard database](https://golem.hu/boards/)
+- [Split Keyboards](https://docs.google.com/spreadsheets/d/19-rTWbp8SCKdZFByPZu3RT8NSF8vVddDe8WL6R6b1qQ/edit#gid=0) google sheet, maintained by /u/dnlglsn.
 
 
 ## About
