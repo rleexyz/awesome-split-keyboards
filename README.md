@@ -48,7 +48,7 @@
   - [ErgoDash](#ergodash)
   - [Ergodone](#ergodone)
   - [ErgoDox EZ](#ergodox-ez)
-  - [Ergodox infinity](#ergodox-infinity)
+  - [Ergodox Infinity](#ergodox-infinity)
   - [Ergodox](#ergodox)
   - [Ergoinu](#ergoinu)
   - [Ergotravel](#ergotravel)
@@ -115,6 +115,54 @@ https://github.com/technomancy/atreus
 <img src="img/Atreus.jpg" width="400px"/>
 
 
+## BFO-9000
+https://keeb.io/products/bfo-9000-keyboard-customizable-full-size-split-ortholinear
+
+<img src="img/BFO-9000.jpg" width="400px"/> <img src="img/bfo9000_pcb.jpg" width="400px"/>
+
+
+## Cantor
+https://github.com/diepala/cantor
+
+<img src="img/Cantor.jpg" width="400px"/>
+
+
+## CatBoard
+http://catboard.klava.org/
+https://github.com/ibnteo/catboard
+https://habr.com/post/185500/
+
+<img src="img/catboard.jpg" width="400px"/> <img src="img/catboard_layout.png" width="400px"/>
+
+
+## Cherry ErgoPlus MX 5000 (G80-5000)
+
+http://xahlee.info/kbd/Cherry_Ergoplus_keyboard.html
+https://deskthority.net/photos-f62/cherry-mx5000-teardown-restoration-g80-5000-haade-t16661.html
+
+<img src="img/CherryErgoPlus.jpg" width="400px"/>
+
+
+## Chimera Ergo
+https://github.com/GlenPickle/Chimera
+
+<img src="img/Chimera.jpg" width="400px"/>
+
+
+## Colosseum
+https://github.com/swanmatch/colosseum60
+https://github.com/swanmatch/MxLEDBitPCB
+
+<img src="img/colosseum60.jpg" width="400px"/>
+<img src="img/colosseum44.jpg" width="400px"/>
+
+
+## Corne
+https://github.com/foostan/crkbd/
+
+<img src="img/HeliDox.jpg" width="400px"/> <img src="img/HeliDox_PCB.jpg" width="400px"/>
+
+
 ## Ergodox
 https://www.ergodox.io
 [Tenting](https://github.com/adereth/ergodox-tent)
@@ -122,7 +170,7 @@ https://www.ergodox.io
 <img src="img/ErgoDox-original-min.png" width="400px"/>
 
 
-## Ergodox infinity
+## Ergodox Infinity
 https://input.club/devices/infinity-ergodox/
 
 <img src="img/ErgoDox_Infinity.jpg" width="400px"/> <img src="img/ErgoDox_Infinity_PCB.jpg" width="400px"/>
@@ -212,23 +260,11 @@ https://yushakobo.jp/shop/helix-keyboard-kit/
 <img src="img/Helix.jpg" width="400px"/>
 
 
-## Corne
-https://github.com/foostan/crkbd/
-
-<img src="img/HeliDox.jpg" width="400px"/> <img src="img/HeliDox_PCB.jpg" width="400px"/>
-
-
 ## Sol
 https://www.rgbkb.net
 https://www.rgbkb.net/collections/sol-2
 
 <img src="img/Sol.jpg" width="400px"/>
-
-
-## Chimera Ergo
-https://github.com/GlenPickle/Chimera
-
-<img src="img/Chimera.jpg" width="400px"/>
 
 
 ## Kyria
@@ -269,12 +305,6 @@ https://keeb.io/collections/frontpage/products/nyquist-keyboard?variant=48309345
 <img src="img/Nyquist.jpg" width="400px"/> <img src="img/Nyquist_PCB.jpg" width="400px"/>
 
 
-## BFO-9000
-https://keeb.io/products/bfo-9000-keyboard-customizable-full-size-split-ortholinear
-
-<img src="img/BFO-9000.jpg" width="400px"/> <img src="img/bfo9000_pcb.jpg" width="400px"/>
-
-
 ## Mitosis
 https://github.com/reversebias/mitosis-hardware
 https://github.com/reversebias/mitosis
@@ -299,20 +329,6 @@ https://github.com/FSund/pteron-keyboard
 https://www.reddit.com/r/MechanicalKeyboards/comments/9blobs/the_pteron/
 
 <img src="img/Pteron.jpg" width="400px"/>
-
-
-## Cantor
-https://github.com/diepala/cantor
-
-<img src="img/Cantor.jpg" width="400px"/>
-
-
-## CatBoard
-http://catboard.klava.org/
-https://github.com/ibnteo/catboard
-https://habr.com/post/185500/
-
-<img src="img/catboard.jpg" width="400px"/> <img src="img/catboard_layout.png" width="400px"/>
 
 
 ## Keyboard.io Model01
@@ -377,14 +393,6 @@ https://en.wikipedia.org/wiki/Maltron
 <img src="img/Maltron.jpg" width="400px"/>
 
 
-## Cherry ErgoPlus MX 5000 (G80-5000)
-
-http://xahlee.info/kbd/Cherry_Ergoplus_keyboard.html
-https://deskthority.net/photos-f62/cherry-mx5000-teardown-restoration-g80-5000-haade-t16661.html
-
-<img src="img/CherryErgoPlus.jpg" width="400px"/>
-
-
 ## Dygma Raise
 https://www.dygma.com/raise/
 
@@ -444,14 +452,6 @@ https://github.com/tamanishi/Pinky4
 https://github.com/tamanishi/Pinky3
 
 <img src="img/pinky3.jpg" width="400px"/>
-
-
-## Colosseum
-https://github.com/swanmatch/colosseum60
-https://github.com/swanmatch/MxLEDBitPCB
-
-<img src="img/colosseum60.jpg" width="400px"/>
-<img src="img/colosseum44.jpg" width="400px"/>
 
 
 ## Ergoinu
