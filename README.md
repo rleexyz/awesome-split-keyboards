@@ -90,6 +90,31 @@
   - [Zen](#zen)
 
 
+## Arke
+[thingiverse](https://www.thingiverse.com/thing:2879329)
+
+<img src="img/Arke.jpg" width="400px"/>
+
+
+## Atreis
+https://github.com/dekonnection/atreis
+https://www.reddit.com/r/MechanicalKeyboards/comments/8gt4cj/photos_the_atreis_an_unsplitted_iris/
+
+<img src="img/Atreis.jpg" width="400px"/>
+
+
+## Atreus62
+https://github.com/profet23/atreus62/
+
+<img src="img/Atreus62.jpg" width="400px"/>
+
+
+## Atreus
+https://github.com/technomancy/atreus
+
+<img src="img/Atreus.jpg" width="400px"/>
+
+
 ## Ergodox
 https://www.ergodox.io
 [Tenting](https://github.com/adereth/ergodox-tent)
@@ -123,7 +148,6 @@ https://github.com/jpconstantineau/ErgoTravel
 
 
 ## Fortitude60
-
 https://github.com/Pekaso/fortitude60
 https://yushakobo.jp/shop/fortitude60
 
@@ -174,7 +198,6 @@ https://mehkee.com/products/lets-split-pcb
 
 
 ## Minidox
-
 https://github.com/That-Canadian/MiniDox_PCB
 https://github.com/dotdash32/cases/tree/master/Minidox
 
@@ -194,18 +217,6 @@ https://github.com/foostan/crkbd/
 
 <img src="img/HeliDox.jpg" width="400px"/> <img src="img/HeliDox_PCB.jpg" width="400px"/>
 
-
-## Zen
-https://www.rgbkb.net/products/zen-keyboard
-https://mykeyboard.eu/catalogue/category/keyboard-kits/zen-keyboard_55/
-
-https://legonut.gitbooks.io/zen-keyboard/content/
-https://legonut.gitbooks.io/zen-keyboard/content/flashing.html
-https://github.com/qmk/qmk_firmware/blob/master/keyboards/zen/readme.md
-
-https://www.youtube.com/watch?v=1tDWJe_P5PQ
-
-<img src="img/Zen.jpg" width="400px"/> <img src="img/Zen_PCB.jpg" width="400px"/>
 
 ## Sol
 https://www.rgbkb.net
@@ -229,7 +240,6 @@ https://github.com/splitkb/kyria
 
 
 ## Iris
-
 https://candykeys.com/product/iris-pcb-kit-v-3
 https://keeb.io/products/iris-keyboard-split-ergonomic-keyboard
 https://github.com/qmk/qmk_firmware/tree/master/keyboards/iris
@@ -239,7 +249,6 @@ https://github.com/keebio/iris-case
 
 
 ## Levinson
-
 https://keeb.io/products/levinson-lets-split-w-led-backlight
 https://keeb.io/products/levinson-keyboard-case-plates
 https://github.com/qmk/qmk_firmware/blob/master/keyboards/levinson/readme.md
@@ -248,7 +257,6 @@ https://github.com/qmk/qmk_firmware/blob/master/keyboards/levinson/readme.md
 
 
 ## Viterbi
-
 https://keeb.io/products/viterbi-keyboard-pcbs-5x7-70-split-ortholinear
 https://github.com/qmk/qmk_firmware/blob/master/keyboards/viterbi/readme.md
 
@@ -286,23 +294,6 @@ https://github.com/tshort/dactyl-keyboard
 <img src="img/Dactyl-ManuForm.jpg" width="400px"/>
 
 
-## Atreus
-https://github.com/technomancy/atreus
-
-<img src="img/Atreus.jpg" width="400px"/>
-
-
-## Atreus62
-https://github.com/profet23/atreus62/
-
-<img src="img/Atreus62.jpg" width="400px"/>
-
-## Atreis
-https://github.com/dekonnection/atreis
-https://www.reddit.com/r/MechanicalKeyboards/comments/8gt4cj/photos_the_atreis_an_unsplitted_iris/
-
-<img src="img/Atreis.jpg" width="400px"/>
-
 ## Pteron
 https://github.com/FSund/pteron-keyboard
 https://www.reddit.com/r/MechanicalKeyboards/comments/9blobs/the_pteron/
@@ -317,18 +308,11 @@ https://github.com/diepala/cantor
 
 
 ## CatBoard
-
 http://catboard.klava.org/
 https://github.com/ibnteo/catboard
 https://habr.com/post/185500/
 
 <img src="img/catboard.jpg" width="400px"/> <img src="img/catboard_layout.png" width="400px"/>
-
-## Arke
-
-[thingiverse](https://www.thingiverse.com/thing:2879329)
-
-<img src="img/Arke.jpg" width="400px"/>
 
 
 ## Keyboard.io Model01
@@ -346,7 +330,6 @@ http://xahlee.info/kbd/ly092_mini_keyboard.html
 
 
 ## Mistel Barocco
-
 http://www.mistelkeyboard.com/keyboards/
 
 <img src="img/MistelBarocco.jpg" width="400px"/>
@@ -363,12 +346,6 @@ http://xahlee.info/kbd/VE.A_keyboard.html
 https://ultimatehackingkeyboard.com
 
 <img src="img/Ultimatehackingkeyboard.jpg" width="400px"/>
-
-
-## X-Bows
-http://www.x-bows.com/
-
-<img src="img/xbows.jpg" width="400px"/>
 
 
 ## Kinesis Advantage
@@ -388,6 +365,7 @@ https://matias.ca/ergopro/pc/
 
 <img src="img/matias_ergo_pro.jpg" width="400px"/>
 
+
 ## Goldtouch Go!2
 [goldtouch.com](https://www.goldtouch.com/best-ergonomic-keyboard/)
 
@@ -398,6 +376,7 @@ https://en.wikipedia.org/wiki/Maltron
 
 <img src="img/Maltron.jpg" width="400px"/>
 
+
 ## Cherry ErgoPlus MX 5000 (G80-5000)
 
 http://xahlee.info/kbd/Cherry_Ergoplus_keyboard.html
@@ -405,15 +384,18 @@ https://deskthority.net/photos-f62/cherry-mx5000-teardown-restoration-g80-5000-h
 
 <img src="img/CherryErgoPlus.jpg" width="400px"/>
 
+
 ## Dygma Raise
 https://www.dygma.com/raise/
 
 <img src="img/Dygma-Raise-Mechanical-Split-Keyboard.jpg" width="400px"/> <img src="img/Dygma-Raise-Mechanical-Split-Keyboard_white.jpg" width="400px"/>
 
+
 ## ErgoDash
 https://github.com/omkbd/ErgoDash
 
 <img src="img/Ergodash.jpg" width="400px"/>
+
 
 ## Dumang DK6
 http://www.beyondq.com/
@@ -421,11 +403,13 @@ http://www.beyondq.com/
 <img src="img/Dumang-DK6-1.png" width="400px" />
 <img src="img/Dumang-DK6-2.jpg" width="400px" />
 
+
 ## Lily58
 
 https://github.com/kata0510/Lily58
 
 <img src="img/lily58_keyboard.jpg" width="400px"/>
+
 
 ## Lotus58
 https://github.com/TweetyDaBird/Lotus58
@@ -433,20 +417,24 @@ https://github.com/TweetyDaBird/Lotus58/wiki
 
 <img src="img/lotus58.jpg" width="400px"/>
 
+
 ## R-Go Split
 https://www.r-go-tools.com/products/ergonomic-keyboards/r-go-split/
 
 <img src="img/rgo_split.jpg" width="400px"/>
+
 
 ## Moonlander (Mark I)
 https://www.zsa.io/moonlander/
 
 <img src="img/Moonlander1.jpg" width="400px"/>
 
+
 ## Sofle
 https://josefadamcik.github.io/SofleKeyboard/
 
 <img src="img/sofle_keyboard.jpg" width="400px"/>
+
 
 ## Pinky
 https://github.com/tamanishi/Pinky4
@@ -457,26 +445,46 @@ https://github.com/tamanishi/Pinky3
 
 <img src="img/pinky3.jpg" width="400px"/>
 
+
 ## Colosseum
-
 https://github.com/swanmatch/colosseum60
-
 https://github.com/swanmatch/MxLEDBitPCB
 
 <img src="img/colosseum60.jpg" width="400px"/>
 <img src="img/colosseum44.jpg" width="400px"/>
 
-## Ergoinu
 
+## Ergoinu
 https://github.com/hsgw/ergoinu
 
 <img src="img/ergoinu.jpg" width="400px"/>
+
+
+## X-Bows
+http://www.x-bows.com/
+
+<img src="img/xbows.jpg" width="400px"/>
+
 
 ## YetiS
 https://www.jogmekeebs.com/
 https://github.com/jogme/yetis-keyboard
 
 <img src="img/YetiS.jpg" width="400px"/>
+
+
+## Zen
+https://www.rgbkb.net/products/zen-keyboard
+https://mykeyboard.eu/catalogue/category/keyboard-kits/zen-keyboard_55/
+
+https://legonut.gitbooks.io/zen-keyboard/content/
+https://legonut.gitbooks.io/zen-keyboard/content/flashing.html
+https://github.com/qmk/qmk_firmware/blob/master/keyboards/zen/readme.md
+
+https://www.youtube.com/watch?v=1tDWJe_P5PQ
+
+<img src="img/Zen.jpg" width="400px"/> <img src="img/Zen_PCB.jpg" width="400px"/>
+
 
 ## Build your own keyboard (Do it yourself - DIY)
 
