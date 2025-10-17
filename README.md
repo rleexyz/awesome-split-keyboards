@@ -85,6 +85,7 @@
   - [VE.A](#vea)
   - [Viterbi](#viterbi)
   - [X-Bows](#x-bows)
+  - [YetiS](#yetis)
   - [Zen](#zen)
 
 
@@ -462,6 +463,12 @@ https://github.com/swanmatch/MxLEDBitPCB
 https://github.com/hsgw/ergoinu
 
 <img src="img/ergoinu.jpg" width="400px"/>
+
+## YetiS
+https://www.jogmekeebs.com/
+https://github.com/jogme/yetis-keyboard
+
+<img src="img/YetiS.jpg" width="400px"/>
 
 ## Build your own keyboard (Do it yourself - DIY)
 
