@@ -35,6 +35,7 @@
   - [Atreus62](#atreus62)  
   - [Atreus](#atreus)
   - [BFO-9000](#bfo-9000)
+  - [Cantor](#cantor)
   - [CatBoard](#catboard)
   - [Cherry ErgoPlus MX 5000 (G80-5000)](#cherry-ergoplus-mx-5000-g80-5000)
   - [Chimera Ergo](#chimera-ergo)
@@ -307,6 +308,13 @@ https://github.com/FSund/pteron-keyboard
 https://www.reddit.com/r/MechanicalKeyboards/comments/9blobs/the_pteron/
 
 <img src="img/Pteron.jpg" width="400px"/>
+
+
+## Cantor
+https://github.com/diepala/cantor
+
+<img src="img/Cantor.jpg" width="400px"/>
+
 
 ## CatBoard
 
