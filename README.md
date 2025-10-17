@@ -24,7 +24,7 @@
   - [RSI](#rsi)
 - [More split keyboards](#more-split-keyboards)
 - [About](#about)
-  - [About This Fork](#about-thisfork)
+  - [About This Fork](#about-this-fork)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -636,6 +636,7 @@ Stumbled on the repo while researching split keyboards
 
 Created to help keep the awesome list active 
 
+https://blog.thms.uk/2023/02/applying-pull-requests-from-another-fork#content-applying-a-pull-request-from-another-fork-manually helped me bring over pull requests from the original repo and other forks for merge
 
 ### Contributing
 Contributions welcome!
