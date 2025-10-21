@@ -583,7 +583,7 @@ https://www.youtube.com/watch?v=1tDWJe_P5PQ
 
 ## Shopping
 - [1upkeyboards.com](https://1upkeyboards.com)
-  [boardsource.xyz](https://boardsource.xyz/store)
+- [boardsource.xyz](https://boardsource.xyz/store)
 - [CandyKeys.com](https://candykeys.com)
 - [FalbaTech.tech](https://falba.tech)
 - [Input Club](https://input.club)
