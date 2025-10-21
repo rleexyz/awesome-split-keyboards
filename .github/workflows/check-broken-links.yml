@@ -2,8 +2,8 @@
 name: Broken Links Checker
 on:
   schedule:
-    - cron:  '30 3 * * *'
-    workflow_dispatch:
+    - cron: '30 3 * * *'
+  workflow_dispatch:
 
 env:
   GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
