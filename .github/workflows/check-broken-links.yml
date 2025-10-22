@@ -1,0 +1,22 @@
+# https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule
+name: Broken Links Checker
+on:
+  schedule:
+    - cron: '30 4 * * *'
+  workflow_dispatch:
+
+env:
+  GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
+concurrency:
+  group: dead-links-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check-dead-links:
+    if: github.repository == 'rleexyz/awesome-split-keyboards'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: make install
+      - run: make url_check
