@@ -52,6 +52,7 @@
   - [Ergodox](#ergodox)
   - [Ergoinu](#ergoinu)
   - [Ergotravel](#ergotravel)
+  - [Ferris](#ferris)
   - [For Science](#for-science)
   - [Fortitude60](#fortitude60)
   - [Fourier 40](#fourier-40)
@@ -193,6 +194,13 @@ https://ergodox-ez.com
 https://github.com/jpconstantineau/ErgoTravel
 
 <img src="img/Ergotravel.jpg" width="400px"/>
+
+
+## Ferris
+
+https://github.com/pierrechevalier83/ferris
+
+<img src="img/ferris.jpg" width="400px"/>
 
 
 ## Fortitude60
@@ -484,6 +492,7 @@ https://github.com/qmk/qmk_firmware/blob/master/keyboards/zen/readme.md
 https://www.youtube.com/watch?v=1tDWJe_P5PQ
 
 <img src="img/Zen.jpg" width="400px"/> <img src="img/Zen_PCB.jpg" width="400px"/>
+
 
 
 ## Build your own keyboard (Do it yourself - DIY)
